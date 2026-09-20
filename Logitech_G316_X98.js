@@ -212,5 +212,5 @@ export function Shutdown() {
 }
 
 export function ImageUrl() {
-    return "";
+    return "https://raw.githubusercontent.com/aleopho/signalrgb-logitech-g316-x98/main/LG316X98.png";
 }
